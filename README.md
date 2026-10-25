@@ -1,7 +1,13 @@
-# Deborah Alao — MIT 8103
+# E-commerce Platform
 
-Student ID: 1293
+Deborah Alao · Student ID 1293
 
-E-commerce Platform
+The portfolio uses fictional records for E-commerce Platform.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](Alao_Deborah_1293_FinalSummary.md) · [PDF](Alao_Deborah_1293_FinalSummary.pdf)
